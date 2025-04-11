@@ -7,7 +7,7 @@ A lightweight DNS server built from scratch as a proof of concept following [RFC
 
 ## Features
 
-- Resolves domain names with A and AAAA records
+- Resolves domain names with `A` and `AAAA` records 
 - Minimalistic and efficient design
 - Written in Rust for safety and performance
 - Simple configuration via a YAML file
